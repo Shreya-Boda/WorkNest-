@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Shravani",
+    "email": "shravanidhuri2006@gmail.com",
+    "role": "student",
+    "password": "$2b$10$B4OwgsI7pJQBVCQBxv254ucUhE8p0C.I0l2y1wdSYfHiPpFYYxF9u",
+    "id": "1772906062058",
+    "_id": "1772906062058",
+    "createdAt": "2026-03-07T17:54:22.058Z",
+    "cv": {
+      "bio": "I am a passionate student doing btech in cse",
+      "skills": "html ,css, js , java ",
+      "experience": "3 x hackathon winner"
+    }
+  },
+  {
+    "name": "Shravani",
+    "email": "shrazzz06@gmail.com",
+    "role": "recruiter",
+    "password": "$2b$10$xvSurfcjEHixL4anQZg92eeshtfBuAAz6mL.S.4fTxPpBeqWvvmlK",
+    "id": "1772906208771",
+    "_id": "1772906208771",
+    "createdAt": "2026-03-07T17:56:48.771Z"
+  },
+  {
+    "name": "shreya",
+    "email": "shreya@gmail.com",
+    "role": "student",
+    "password": "$2b$10$fsmfkqqScnsKFuBFYJwi1us2N4K21mDu4ccZrtQkjYxFtM7QvwUVm",
+    "id": "1772975095531",
+    "_id": "1772975095531",
+    "createdAt": "2026-03-08T13:04:55.531Z"
+  },
+  {
+    "name": "shreya",
+    "email": "shreyaboda@gmail.com",
+    "role": "recruiter",
+    "password": "$2b$10$8i07dTxQLUbWIJQcZuMm8.h2ihjs2WGIJfKHRScHjdn/hpahQNrx6",
+    "id": "1772975128386",
+    "_id": "1772975128386",
+    "createdAt": "2026-03-08T13:05:28.386Z"
+  },
+  {
+    "name": "shreya",
+    "email": "shreyaboda1@gmail.com",
+    "role": "recruiter",
+    "password": "$2b$10$jWLP7xu6SmmB9eXyFMAaAeeWwkHXME4A9GKkwOjMt6M0bkS2/gRR6",
+    "id": "1772976108966",
+    "_id": "1772976108966",
+    "createdAt": "2026-03-08T13:21:48.966Z"
+  }
+]
